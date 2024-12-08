@@ -1,0 +1,8 @@
+# Bazel workspace
+bazel**/**
+
+# Compile commands
+compile_commands.json
+
+# VS Code settings
+.vscode/
